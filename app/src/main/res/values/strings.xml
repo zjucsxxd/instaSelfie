@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Insta-Selfie</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="client_id">f173c4795b7c4408826a61ee33b6a1b6</string>
+    <string name="client_secret">9fa8ba4dacdd4b938c85d20f2b520ef7</string>
+    <string name="access_token">145015120.bdd1851.8fc22404ba0d4f92b44a2fbb22b58340</string>
+    <string name="requestUrl">https://api.instagram.com/v1/tags/selfie/media/recent?access_token=</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_gallery_photo">Gallery</string>
+    <string name="title_activity_singe_post">Insta-Post</string>
+
+</resources>
